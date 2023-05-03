@@ -1,0 +1,19 @@
+{
+  "name": "reactfullstack",
+  "version": "1.0.0",
+  "description": "full stack Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crkjalive/fullStack.git"
+  },
+  "author": "CRKJ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crkjalive/fullStack/issues"
+  },
+  "homepage": "https://github.com/crkjalive/fullStack#readme"
+}
